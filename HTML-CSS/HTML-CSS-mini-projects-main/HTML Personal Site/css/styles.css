@@ -1,0 +1,24 @@
+body {
+    background-color: #f1e3cb;
+}
+
+h1 {
+    color: #ca5116;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+
+h3 {
+    color: #ca5116;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+
+hr {
+    border-style: dotted;
+    border-top-style: none;
+    border-color: gainsboro;
+    border-width: 5px;
+    width: 2%;
+}
+

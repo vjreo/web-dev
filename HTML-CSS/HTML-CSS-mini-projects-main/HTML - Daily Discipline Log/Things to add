@@ -1,0 +1,61 @@
+Goal Key?
+<h4>Goal Key</h4>
+    <table cellspacing="5px">
+        <thead>
+            <tr>
+                <th>Letter</th>
+                <th>Definition</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>C</td>
+                <td>Career</td>
+            </tr>
+            <tr>
+                <td>F</td>
+                <td>Finance</td>
+            </tr>
+            <tr>
+                <td>G</td>
+                <td>Grow</td>
+            </tr>
+            <tr>
+                <td>L</td>
+                <td>Lifestyle</td>
+            </tr>
+            <tr>
+                <td>T</td>
+                <td>Training</td>
+            </tr>
+        </tbody>
+    </table>
+
+        <h3>Weekly Tasks</h3>
+    <table cellspacing="7px">
+        <thead>
+            <tr>
+                <th>Task</th>
+                <th>Minimum Time / Day (mins)</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Code</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Journal</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Workout</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Read</td>
+            <td>20</td>
+        </tr>
+        </tbody>
+    </table>
+    <hr>

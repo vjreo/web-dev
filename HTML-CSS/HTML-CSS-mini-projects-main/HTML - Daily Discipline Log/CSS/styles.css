@@ -1,0 +1,48 @@
+body {
+    background-color: #fcf8e8;
+}
+
+hr {
+    border-color: #d4e2d4;
+    border-width: 6px;
+    border-style: dotted none none;
+    width: 5%;
+}
+
+h1 {
+    color: #ecb390;
+    text-align: center;
+}
+
+h2 {
+    color: #ecb390;
+}
+
+h3 {
+    color: #ecb390;
+    text-align: center;
+}
+
+h4 {
+    color: #ecb390;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+p {
+    color: #ecb390;
+    text-align: center;
+}
+
+th {
+    color: #ecb390;
+    text-align: center;
+}
+
+.goalstracker:hover {
+    background-color: #d4e2d4;
+    text-transform: uppercase;
+}
